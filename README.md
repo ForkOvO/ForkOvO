@@ -1,13 +1,17 @@
 ## Hi there 👋 This is ForkOvO ！✨ 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ForkOvO)
-[![Bilibili](https://img.shields.io/badge/-Bilibili-blue?style=flat&logo=Bilibili&logoColor=pink)](https://space.bilibili.com/387426555)
+中文(README_cn.md) | English
 
 Welcome to my Github page! I am ForkOvO, or you con call me Kang 🙋‍♂️ Nice to meet you! 
 
+You can click on the tab below to go to my homepage
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ForkOvO)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-blue?style=flat&logo=Bilibili&logoColor=pink)](https://space.bilibili.com/387426555)
+
 #### 🌱 Things I am currently working on 🌱 : 
 
-+ Use Qt to write a desktop application called ForkDoesktop
++ Use Qt to write a desktop application called ForkDesktop
 + Learn new skills to improve myself as much as possible, like Vue or something
 + [My website](https://ForkOvO.github.io) 🚀 *It's not done yet, it's coming soon*
 
