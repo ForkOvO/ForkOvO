@@ -1,6 +1,6 @@
 ## Hi there 👋 This is ForkOvO ！✨ 
 
-中文(README_cn.md) | English
+[中文](README_cn.md) | English
 
 Welcome to my Github page! I am ForkOvO, or you con call me Kang 🙋‍♂️ Nice to meet you! 
 
