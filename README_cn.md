@@ -7,7 +7,7 @@
 你可以点击下方标签进入我的主页
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ForkOvO)
-[![Bilibili](https://img.shields.io/badge/-Bilibili-blue?style=flat&logo=Bilibili&logoColor=pink)](https://space.bilibili.com/387426555)
+[![哔哩哔哩](https://img.shields.io/badge/-Bilibili-blue?style=flat&logo=Bilibili&logoColor=pink)](https://space.bilibili.com/387426555)
 
 #### 🌱 这些是我目前正在做的 🌱 : 
 
